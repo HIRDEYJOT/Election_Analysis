@@ -23,7 +23,7 @@ The analysis of the election show that:
 !  - Diana DeGette
 - - Raymon Anthony Doane
 ```
-![test](election_results.png)
+
 - The candidate results were:
   ```diff 
   + - Charles Casper Stockham received 23.0% of the vote with 85,213 votes.
@@ -44,6 +44,8 @@ The analysis of the election show that:
   - Arapahoe county cast 6.7% of the vote with 24,801 votes.
 - The Largest county voter turnout:
   - Denver county cast 82.8% of the vote with 306,055 votes
+  
+  ![test](election_results.png)
   
 ## Election - Audit Summary
 This scipt can be used for any future election to get the results and visualize it according to the user. This code provided information on winning candidates and voter turnout by the county, the scipt can be modifed to call other election datafields. We can determine election results in any format , like based on gender or age . In addition to capturing different datafields, we can modify the output to give us a different resutls message. We can also set the format of the data to be visualized .
